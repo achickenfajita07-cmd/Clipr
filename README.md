@@ -274,4 +274,4 @@
     </footer>
 </body>
 </html>
-<img width="1479" height="960" alt="carab png" src="https://github.com/user-attachments/assets/8b994e2a-dff1-40b1-aa24-6e3b5de277aa" />
+
