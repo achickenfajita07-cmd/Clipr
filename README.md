@@ -1,7 +1,4 @@
-# Clipr
-Carabiner multi tool
-[index.html.html](https://github.com/user-attachments/files/23422482/index.html.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -267,7 +264,7 @@ Carabiner multi tool
         <h2>Innovative <span>Design</span></h2>
         <p style="color: #b0b0b0; font-size: 18px; margin-bottom: 20px;">Form meets function in perfect harmony</p>
         <div class="product-display">
-            <img src="carab.png" alt="Carabiner Multi-Tool" style="max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 10px;">
+            <img src="carab.png.png" alt="Carabiner Multi-Tool" style="max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 10px;">
         </div>
     </section>
 
