@@ -267,7 +267,7 @@ Carabiner multi tool
         <h2>Innovative <span>Design</span></h2>
         <p style="color: #b0b0b0; font-size: 18px; margin-bottom: 20px;">Form meets function in perfect harmony</p>
         <div class="product-display">
-            <img src="Adobe Express - file (9).png" alt="Carabiner Multi-Tool" style="max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 10px;">
+            <img src="carab.png" alt="Carabiner Multi-Tool" style="max-width: 90%; max-height: 90%; object-fit: contain; border-radius: 10px;">
         </div>
     </section>
 
@@ -277,3 +277,4 @@ Carabiner multi tool
     </footer>
 </body>
 </html>
+<img width="1479" height="960" alt="carab png" src="https://github.com/user-attachments/assets/8b994e2a-dff1-40b1-aa24-6e3b5de277aa" />
